@@ -38,7 +38,7 @@
         <artifactId>spring-boot-maven-plugin</artifactId>
       </plugin>
     </plugins>
-	<filename>MyApp</filename>
+	<fileName>MyApp</fileName>
   </build>
 
 </project>
